@@ -36,3 +36,15 @@ compile_flags.txt
 # VSCode Specific
 .vscode/
 *.code-workspace
+
+# traces
+case
+exchange
+homes
+ikki
+
+# log files
+log.txt
+debug.txt
+latency.csv
+results
